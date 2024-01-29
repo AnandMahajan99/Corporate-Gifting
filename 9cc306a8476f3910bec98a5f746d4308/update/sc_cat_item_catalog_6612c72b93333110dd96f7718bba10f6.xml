@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Raise E-Wallet Request for your Mentee">a6120be793333110dd96f7718bba1089</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>anand.mahajan</sys_created_by>
+        <sys_created_on>2024-01-24 05:18:46</sys_created_on>
+        <sys_id>6612c72b93333110dd96f7718bba10f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Raise E-Wallet Request for your Mentee</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_765939_corpora_0">9cc306a8476f3910bec98a5f746d4308</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">9cc306a8476f3910bec98a5f746d4308</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_6612c72b93333110dd96f7718bba10f6</sys_update_name>
+        <sys_updated_by>anand.mahajan</sys_updated_by>
+        <sys_updated_on>2024-01-24 05:18:46</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
